@@ -1,9 +1,7 @@
 var space;
 
 function floatySpace() {
-  var colors = [
-    "#FF3F8E", "#04C2C9", "#2E55C1"
-  ];
+  var colors = ["#FF3F8E", "#04C2C9", "#2E55C1"];
 
 
   space = new CanvasSpace("canvas", "#252934" ).display();
